@@ -1,0 +1,10 @@
+{
+  "ignoreTestFiles": "*.ts",
+  "projectId": "esivgw",
+  "defaultCommandTimeout":4000,
+  "chromeWebSecurity": false,
+  "execTimeout":6000,
+  "taskTimeout": 10000,
+  "viewportWidth": 1600,
+  "viewportHeight": 800
+}
